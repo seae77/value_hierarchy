@@ -1,0 +1,404 @@
+[[Block: Authority vs Liberty - H1]]
+Le protagoniste, un enseignant, se voit offrir deux trajectoires professionnelles. Dans le scénario A, il choisit de travailler dans une école traditionnelle où il respecte et transmet le règlement intérieur établi par le directeur. Chaque matin, il participe à l'assemblée en guidant les élèves avec déférence, assurant la stabilité institutionnelle. Dans le scénario B, il pourrait rejoindre un groupe de citoyens qui organisent des manifestations pacifiques contre des lois perçues comme restrictives, diffusant leurs actions en ligne pour défendre l'initiative individuelle. En choisissant le scénario A, il privilégie l'ordre social et la légitimité du leadership, excluant ainsi la possibilité de s'engager dans le scénario B.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme l'enseignant dans le scénario A ?
+
+[[Block: Authority vs Liberty - H2]]
+Édouard, directeur d'une école réputée, incarnait l'ordre et la structure. Chaque matin, il veillait à ce que l'hymne résonne dans les couloirs, un rituel qu'il considérait essentiel. Les réunions du conseil scolaire, qu'il présidait avec rigueur, étaient pour lui des moments clés de la stabilité institutionnelle. Chez lui, il appliquait les mêmes principes : chaque repas en famille suivait un horaire précis, et les discussions tournaient autour de sujets concrets. Lorsqu'une manifestation se déroulait en ville, Édouard l'observait de loin, préférant se concentrer sur ses responsabilités quotidiennes. Pour lui, l'ordre établi était une priorité, tandis que les mouvements citoyens restaient en arrière-plan.
+
+Question:
+Sur une échelle de 0 à 100, quelle est la probabilité que l'indifférence d'Édouard envers l'autonomie suscite votre indignation ?
+
+Question:
+L'ordre doit primer sur l'initiative individuelle. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Authority vs Liberty - H3]]
+Alex, un ingénieur en informatique, refuse de se conformer aux structures hiérarchiques traditionnelles. Au travail, il ignore les protocoles établis, préférant des solutions innovantes qui  défient les attentes de ses supérieurs. En famille, il rejette les rôles conventionnels, partageant équitablement les responsabilités domestiques avec son partenaire. Lors des réunions de quartier, il s'oppose aux décisions majoritaires, prônant des alternatives inattendues. Alex évite les manifestations organisées, préférant des discussions individuelles pour exprimer ses opinions. Il ne suit pas les mouvements populaires, choisissant des chemins solitaires pour ses actions. Sa vie quotidienne est un témoignage constant de son refus de se plier aux normes d'autorité et de liberté établies.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par la violation de la hiérarchie que de l'autonomie ?
+
+[[Block: Authority vs Liberty - H6]]
+Dans l'école traditionnelle, Emma, une enseignante, décide d'introduire des discussions ouvertes en classe, inspirée par les manifestations pacifiques qu'elle a vues en ligne. Elle encourage ses élèves à exprimer leurs opinions sur le règlement intérieur. Un matin, au lieu de l'hymne, elle propose un débat sur la liberté d'expression. Le directeur, en passant devant la classe, entend les discussions animées. Indigné, il convoque Emma, soulignant que son approche menace l'ordre établi de l'école. Il insiste sur l'importance de respecter les traditions et le règlement. Emma, calme, défend l'importance de l'initiative individuelle et de l'expression personnelle, convaincue que cela enrichit l'apprentissage.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation du directeur face à Emma est-elle justifiée ?
+
+[[Block: Authority vs Sanctity - H1]]
+Le protagoniste, un jeune cadre ambitieux, se voit offrir deux opportunités de carrière distinctes. Dans le premier scénario, il rejoint une entreprise renommée où les structures hiérarchiques sont clairement définies. Il respecte les directives de ses supérieurs et s'assure que son équipe suive les protocoles établis. Sa progression professionnelle repose sur sa capacité à maintenir l'ordre et à honorer les traditions de l'entreprise. Dans le second scénario, il pourrait s'engager dans une communauté spirituelle dédiée à la méditation et à la préservation de l'environnement. Ici, il participerait à des rituels quotidiens, cherchant une connexion profonde avec la nature. Le protagoniste choisit de suivre la voie de l'entreprise.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de suivre la voie de l'entreprise comme le protagoniste ?
+
+[[Block: Authority vs Sanctity - H2]]
+Jean-Pierre, directeur d'une école réputée, incarnait l'ordre et la structure. Chaque matin, il organisait des réunions pour s'assurer que les nouvelles directives étaient bien comprises et appliquées. Les enseignants, sous sa supervision, transmettaient ces règles avec rigueur. Jean-Pierre appréciait cette routine, trouvant satisfaction dans la clarté et la prévisibilité. En dehors de l'école, il passait peu de temps à contempler la nature ou à s'engager dans des activités introspectives. Les moments de silence ou de méditation ne faisaient pas partie de son quotidien. Pour lui, l'efficacité et l'organisation primaient sur la contemplation. Sa vie était un reflet de son engagement envers un monde structuré et ordonné.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face à l'indifférence de Jean-Pierre pour les éléments sacrés ? (0-100)
+
+Question:
+Ordre doit primer sur dignité. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Authority vs Sanctity - H3]]
+Alex, un ingénieur en informatique, refuse les hiérarchies rigides et les rituels traditionnels. Au travail, il encourage ses collègues à remettre en question les directives, favorisant l'innovation par la discussion ouverte. En famille, il rejette les rôles traditionnels, partageant équitablement les responsabilités domestiques avec son partenaire. Lors des réunions sociales, il évite les conventions, préférant des interactions spontanées et informelles. Alex ne suit pas les normes établies, préférant explorer de nouvelles approches. Il ne participe pas aux rituels collectifs, choisissant plutôt des activités individuelles qui stimulent sa créativité. Sa vie quotidienne est marquée par une quête constante de liberté et d'authenticité, défiant les attentes traditionnelles.
+
+Question:
+À quel point êtes-vous plus indigné par la violation de l'ordre que par celle du sacré, sur une échelle de 0 à 100 ?
+
+[[Block: Authority vs Sanctity - H6]]
+Dans l'école traditionnelle, un jeune enseignant, inspiré par une retraite dans le temple forestier, propose d'intégrer des rituels méditatifs en classe. Il remplace l'assemblée matinale par une séance de méditation, espérant apporter calme et concentration aux élèves. Cependant, le conseil des anciens, témoin de ce changement, exprime son indignation. Ils considèrent cette pratique comme une menace à l'ordre établi et à la tradition scolaire. Le directeur, alerté par leur réaction, convoque une réunion pour discuter de l'impact de ces nouvelles méthodes. Les enseignants, partagés, observent la tension croissante entre innovation et tradition, tandis que les élèves, intrigués, attendent de voir quelle voie sera finalement adoptée.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation des anciens face aux rituels méditatifs est-elle justifiée selon vous ?
+
+[[Block: Care vs Authority - H1]]
+Dans sa carrière, Paul se trouve face à deux chemins distincts. Dans le premier, il devient infirmier dans une clinique communautaire, où il accueille les patients avec empathie et organise des ateliers de soutien. Il s'engage activement dans des initiatives locales, créant un réseau solidaire avec ses collègues. Dans le second chemin, Paul choisit de devenir directeur d'une école traditionnelle, où il établit le règlement intérieur et assure l'ordre. Il structure les relations avec les enseignants et les élèves, renforçant l'attachement aux valeurs partagées. Paul opte pour le premier chemin, préférant se consacrer à l'écoute et au soutien des autres.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous le même chemin que Paul en devenant infirmier ?
+
+[[Block: Care vs Authority - H2]]
+Émilie, médecin généraliste dans un quartier animé, consacre ses journées à écouter attentivement ses patients, cherchant à comprendre leurs histoires au-delà des symptômes. Elle organise des groupes de parole, encourageant l'entraide et la solidarité. Ses collègues, inspirés par son approche, participent à des projets communautaires, renforçant les liens sociaux. Chez elle, Émilie privilégie les discussions ouvertes avec sa famille, valorisant l'échange et le soutien mutuel. En revanche, elle accorde peu d'attention aux protocoles stricts et aux hiérarchies rigides de l'hôpital, qu'elle considère comme secondaires. Pour elle, l'essentiel réside dans les relations humaines et l'engagement collectif, qui façonnent son quotidien et son parcours professionnel.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face à l'indifférence d'Émilie envers la hiérarchie ? (0-100)
+
+Question:
+La solidarité doit primer sur la hiérarchie. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Care vs Authority - H3]]
+Alex, un entrepreneur indépendant, navigue dans sa vie avec une approche résolument individualiste. Au travail, il refuse les collaborations, préférant mener ses projets en solitaire, sans  s'engager dans des initiatives collectives. En famille, il évite les réunions et les rituels, choisissant de passer son temps libre à explorer ses passions personnelles. Dans ses interactions sociales, il rejette les conventions, ne participant ni aux cérémonies ni aux structures hiérarchiques. Alex ne s'implique pas dans les réseaux communautaires, préférant l'autonomie à l'interdépendance. Il ne fait aucun compromis sur son mode de vie, défiant les attentes sociales et professionnelles. Sa vie est un témoignage de son indépendance inébranlable.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par le manque de soutien que par le non-respect de la hiérarchie ?
+
+[[Block: Care vs Authority - H6]]
+Dans la clinique communautaire, un nouveau gestionnaire, Paul, décide d'instaurer des règles strictes inspirées du modèle scolaire traditionnel. Il impose des horaires rigides et limite les ateliers de soutien, insistant sur l'importance de la hiérarchie et de l'ordre. Marie, l'infirmière, observe ces changements avec inquiétude. Elle remarque que l'atmosphère chaleureuse et solidaire commence à se dissiper. Les collègues, autrefois motivés par l'engagement communautaire, semblent désorientés. Un jour, lors d'une réunion, Marie exprime calmement son inquiétude, soulignant l'importance de l'empathie et de la flexibilité pour le bien-être des patients. Son intervention suscite une réflexion collective, incitant l'équipe à reconsidérer l'approche imposée par Paul.
+
+Question:
+Sur une échelle de 0 à 100, trouvez-vous l'indignation de Marie face aux changements de Paul justifiée ?
+
+[[Block: Care vs Fairness - H1]]
+Anna, infirmière dans une petite clinique, est confrontée à deux choix de carrière. Dans le premier, elle se consacre à un patient âgé sans famille, organisant des visites régulières avec ses collègues pour lui apporter réconfort et soutien. Elle initie également un programme de bénévolat étudiant pour multiplier ces échanges bienveillants, créant un environnement chaleureux et solidaire. Dans le second, elle pourrait rejoindre un comité d'éthique chargé d'évaluer anonymement les candidatures pour un poste, garantissant une évaluation impartiale et équitable. Anna choisit de se concentrer sur le soutien direct aux patients, préférant l'empathie et la compassion à l'impartialité et à l'équité. Elle s'engage pleinement dans cette voie.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme Anna en vous concentrant sur le soutien direct aux patients ?
+
+[[Block: Care vs Fairness - H2]]
+Anna, infirmière dévouée, consacre ses journées à créer des liens humains profonds. Chaque matin, elle s'assure que ses patients reçoivent non seulement des soins médicaux, mais aussi une attention personnelle. Elle organise des activités pour briser l'isolement des plus vulnérables, convaincue que la chaleur humaine est essentielle à la guérison. En revanche, lorsqu'elle assiste à des réunions administratives, elle se montre souvent distraite, peu intéressée par les discussions sur les procédures et les évaluations anonymes. Pour elle, ces processus, bien qu'importants, semblent déconnectés de la réalité humaine qu'elle chérit. Anna continue de privilégier les interactions directes, convaincue de leur impact positif.
+
+Question:
+Quelle est la probabilité que l'indifférence d'Anna envers les procédures suscite votre indignation ou colère (0-100) ?
+
+Question:
+La bienveillance doit primer sur l'impartialité. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Care vs Fairness - H3]]
+Marc, directeur d'une entreprise, privilégie systématiquement ses intérêts personnels. Au bureau, il ignore les suggestions de ses collègues, préférant imposer ses décisions sans consultation. Lors des réunions, il favorise les candidats qu'il connaît, sans tenir compte des critères établis. À la maison, il évite les discussions familiales, préférant se concentrer sur ses loisirs. Ses interactions sociales sont marquées par une indifférence aux besoins des autres, choisissant ses amis en fonction de leur utilité. Marc ne participe à aucune activité communautaire, considérant cela comme une perte de temps. Il maintient cette approche dans tous les aspects de sa vie, convaincu de son efficacité personnelle. Sa routine quotidienne reste inchangée.
+
+Question:
+Sur une échelle de 0-100, à quel point l'absence de soutien vous indigne-t-elle plus que l'injustice envers Paul ?
+
+[[Block: Care vs Fairness - H6]]
+Dans la clinique, Marc, un nouveau gestionnaire, insiste pour appliquer des procédures strictes d'évaluation des soins, inspirées du scénario B. Il propose de remplacer les visites bénévoles par un système de notation anonyme des interactions patient-soignant, arguant que cela garantirait une qualité de service mesurable. Anna, témoin de cette proposition, exprime son indignation. Elle souligne que la chaleur humaine et le soutien émotionnel ne peuvent être quantifiés par des scores. Ses collègues, partageant son point de vue, se rallient à elle, insistant sur l'importance de maintenir un environnement humain et solidaire. Marc, face à cette réaction unanime, accepte de reconsidérer sa position, reconnaissant la valeur des liens humains dans le soin.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation d'Anna face à Marc est-elle justifiée selon vous ?
+
+[[Block: Care vs Liberty - H1]]
+Dans une petite ville, Alex choisit de consacrer son temps à organiser des repas pour un voisin isolé. Chaque semaine, il cuisine et livre des plats chauds, créant un lien fort avec les autres voisins impliqués. Cette activité lui permet de se concentrer sur le bien-être immédiat de son entourage, apportant réconfort et chaleur humaine. Pendant ce temps, dans une ville animée, d'autres citoyens se rassemblent pour manifester contre une loi controversée, brandissant des pancartes pour défendre la liberté d'expression. Alex, en s'engageant dans le soutien local et direct, ne participe pas à cette marche. Il privilégie l'action communautaire et la proximité.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme Alex en privilégiant l'action communautaire locale ?
+
+[[Block: Care vs Liberty - H2]]
+Chaque matin, Émilie se levait avec une routine bien établie. Elle passait ses journées à organiser des repas pour les personnes âgées de son quartier, s'assurant que personne ne se sente seul. Son travail à la bibliothèque municipale lui permettait de rencontrer des gens qu'elle invitait souvent à rejoindre son initiative. En famille, elle encourageait ses enfants à participer à ces actions communautaires. Lorsqu'une manifestation contre une nouvelle loi se déroulait en ville, Émilie restait concentrée sur ses engagements locaux, ne ressentant pas le besoin de s'y impliquer. Pour elle, l'impact direct et tangible de ses actions quotidiennes primait sur les mouvements plus larges.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face au choix d'Émilie, sur une échelle de 0 à 100 ?
+
+Question:
+La bienveillance doit primer sur l'initiative individuelle. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Care vs Liberty - H3]]
+Marc, cadre dans une entreprise, privilégie l'efficacité à toute autre considération. Au bureau, il évite les discussions personnelles, se concentrant uniquement sur les objectifs. Lors des réunions,  il coupe court aux débats, préférant des décisions rapides. Chez lui, il maintient une distance émotionnelle, considérant les interactions familiales comme des formalités. Il ne participe pas aux événements communautaires, jugeant ces engagements inutiles. Lorsqu'une manifestation se déroule près de son quartier, il ferme ses volets, indifférent aux revendications. Marc ne s'implique jamais dans les initiatives collectives, préférant suivre sa propre voie. Sa routine quotidienne reflète une constance dans ses choix, sans déviation ni compromis.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par le manque de soutien que par le manque d'autonomie ?
+
+[[Block: Care vs Liberty - H6]]
+Dans la petite ville, Marc, un fervent défenseur des droits civiques, décide de consacrer tout son temps à organiser la marche pacifique contre la nouvelle loi liberticide. Il néglige alors sa participation aux repas hebdomadaires pour l'habitant isolé, qu'il avait pourtant initiée. Claire, une voisine engagée, observe cette désertion avec indignation. Elle confronte Marc, soulignant l'importance de maintenir le soutien local tout en luttant pour des causes plus larges. Marc, pris de conscience, réalise l'impact de son absence sur la communauté immédiate. Il s'engage alors à équilibrer ses efforts, participant à la fois aux repas et à la marche, renforçant ainsi les liens de solidarité à tous les niveaux.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation de Claire face à Marc est-elle justifiée selon vous ?
+
+[[Block: Care vs Loyalty - H1]]
+Le protagoniste, passionné par l'entraide, choisit de consacrer ses dimanches à cuisiner et livrer des repas aux personnes âgées isolées de sa ville. Chaque semaine, il ressent une profonde satisfaction en apportant réconfort et chaleur humaine à ceux qui en ont besoin, renforçant ainsi les liens communautaires. Cette implication hebdomadaire l'empêche de participer aux réunions du collectif artistique, où il aurait pu collaborer à une exposition commune, partageant idées et ressources avec d'autres artistes. En choisissant de se concentrer sur le soutien aux personnes vulnérables, il renonce à l'opportunité de renforcer son sentiment d'appartenance à un groupe créatif. Le protagoniste privilégie l'empathie et la bienveillance.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de consacrer vos dimanches à aider des personnes âgées isolées ?
+
+[[Block: Care vs Loyalty - H2]]
+Marie, infirmière dévouée, consacre ses dimanches à préparer des repas pour les personnes âgées de son quartier. Chaque semaine, elle s'assure que les plats sont nutritifs et adaptés aux besoins de chacun. Sa routine est bien établie : elle cuisine, livre, et prend le temps d'écouter les histoires de ses bénéficiaires. En revanche, lorsqu'elle est invitée à rejoindre des projets artistiques collectifs, elle décline poliment. Les réunions créatives, bien qu'animées et pleines de vie, ne suscitent pas son intérêt. Elle préfère consacrer son énergie à des actions concrètes et tangibles. Pour Marie, le lien direct avec les autres est essentiel, et elle s'y consacre pleinement.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face à l'indifférence de Marie, sur une échelle de 0 à 100 ?
+
+Question:
+La bienveillance doit primer sur l'allégeance. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Care vs Loyalty - H3]]
+Julien, cadre dans une entreprise de technologie, préfère travailler seul, évitant les collaborations et les projets d'équipe. Au bureau, il décline systématiquement les invitations à participer aux initiatives de bénévolat organisées par ses collègues, préférant se concentrer sur ses propres objectifs. À la maison, il maintient une distance émotionnelle avec sa famille, choisissant de passer ses soirées à lire ou à travailler plutôt que de partager des moments en commun. Lors des réunions de quartier, il reste en retrait, ne s'impliquant jamais dans les discussions ou les activités communautaires. Julien poursuit sa routine quotidienne avec une détermination inébranlable, convaincu que son indépendance est sa plus grande force.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par le manque de soutien que par le manque de solidarité ?
+
+[[Block: Care vs Loyalty - H6]]
+Dans la petite ville, Marc, un membre influent du collectif artistique, propose de rediriger les fonds du programme de distribution de repas vers l'exposition commune. Il argue que l'art peut aussi nourrir l'âme et renforcer la communauté. Lors d'une réunion, il présente son idée avec enthousiasme, espérant rallier les autres à sa cause. Cependant, Claire, une bénévole dévouée du programme de repas, écoute avec indignation. Elle se lève, soulignant calmement l'importance vitale des repas pour les personnes âgées isolées. Son intervention suscite un débat animé, mais elle reste ferme, rappelant que le soutien direct aux plus vulnérables ne doit pas être sacrifié. Sa détermination inspire d'autres à défendre le programme, préservant ainsi son existence.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation ressentie face à la proposition de Marc est-elle justifiée ?
+
+[[Block: Care vs Sanctity - H1]]
+Dans une petite ville, le protagoniste choisit de s'engager chaque semaine avec ses voisins pour cuisiner des repas destinés à un habitant isolé. Cette initiative, née d'une simple conversation, se transforme en un réseau de soutien alimentaire. Chaque visite est l'occasion d'échanges chaleureux, renforçant les liens communautaires et apportant réconfort à ceux qui en ont besoin. En choisissant cette voie, il renonce à la possibilité de vivre dans un temple paisible où, chaque matin, des moines exécutent un rituel de purification. Ce rituel commence par une méditation silencieuse, suivie de chants sacrés, témoignant d'un respect profond pour le lieu. Le protagoniste privilégie l'engagement communautaire.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme le protagoniste en vous engageant avec la communauté ?
+
+[[Block: Care vs Sanctity - H2]]
+Chaque matin, Claire se lève tôt pour préparer des repas qu'elle distribue ensuite aux personnes âgées de son quartier. Sa routine est rythmée par ces gestes altruistes, qu'elle considère essentiels à son bien-être. Au travail, elle organise des collectes de fonds pour des causes locales, préférant l'action concrète aux discussions théoriques. Le week-end, elle participe à des ateliers communautaires, où elle trouve satisfaction dans l'engagement collectif. En revanche, elle passe rarement du temps dans des lieux de méditation ou de contemplation, qu'elle perçoit comme éloignés de ses préoccupations quotidiennes. Pour Claire, l'interaction humaine et le soutien tangible priment sur la quête de sérénité intérieure.
+
+Question:
+Quelle est la probabilité que l'indifférence de Claire envers la nature vous indigne ou vous mette en colère (0-100) ?
+
+Question:
+Solidarité doit primer sur pureté. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Care vs Sanctity - H3]]
+Julien, cadre dans une entreprise de logistique, mène une vie où l'individualisme prime. Au travail, il privilégie l'efficacité à toute forme de collaboration, évitant les discussions qui pourraient mener à des initiatives collectives. En famille, il préfère les moments solitaires, s'isolant souvent dans son bureau pour travailler sur ses projets personnels, sans participer aux activités familiales. Socialement, il décline systématiquement les invitations à des événements communautaires, préférant passer ses soirées à lire des ouvrages techniques. Julien ne s'engage dans aucune pratique spirituelle ou rituelle, considérant ces activités comme une perte de temps. Sa routine quotidienne est marquée par une indépendance rigoureuse et une distance maintenue.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par le manque de compassion que de respect profond ?
+
+[[Block: Care vs Sanctity - H6]]
+Dans la petite ville, Marc, un nouvel habitant, propose de remplacer les réunions culinaires par des séances de méditation inspirées du rituel des moines. Il argue que la paix intérieure est plus bénéfique que les repas partagés. Claire, une voisine engagée, observe avec indignation cette suggestion qui menace le réseau de soutien alimentaire. Elle exprime calmement son désaccord, soulignant l'importance des liens créés autour des repas. Les voisins, touchés par ses mots, décident de maintenir leur tradition. Marc, réalisant l'impact positif des rencontres, choisit finalement de participer aux deux activités, enrichissant ainsi la communauté par une diversité d'expériences.
+
+Question:
+Sur une échelle de 0 à 100, trouvez-vous justifiée l'indignation de Claire face à la suggestion de Marc ?
+
+[[Block: Fairness vs Authority - H1]]
+Le protagoniste, confronté à deux trajectoires de vie distinctes, choisit de s'engager dans le scénario A. Dans ce parcours, il participe activement à un jury citoyen où chaque membre, anonymisé, évalue des propositions d'urbanisme selon des critères prédéfinis. La transparence et l'impartialité du processus sont assurées par la publication des comptes-rendus et la validation des décisions par un comité indépendant. En choisissant cette voie, il renonce à la possibilité de vivre le scénario B, où il aurait évolué dans un environnement scolaire structuré par des directives hiérarchiques et des traditions locales. Le protagoniste privilégie un engagement basé sur l'équité et la justice.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme le protagoniste en optant pour le scénario A ?
+
+[[Block: Fairness vs Authority - H2]]
+Élise, urbaniste passionnée, consacrait ses journées à orchestrer des réunions citoyennes. Elle croyait fermement en la participation collective pour façonner l'avenir urbain. Chaque projet était méticuleusement évalué, chaque voix entendue, garantissant une transparence totale. Les comptes-rendus étaient publiés, renforçant la confiance des habitants. En revanche, dans sa vie personnelle, elle montrait peu d'intérêt pour les traditions familiales. Les réunions de famille, où les rôles étaient prédéfinis et les coutumes respectées, la laissaient indifférente. Elle préférait l'innovation à la tradition, l'impartialité à l'autorité. Sa vie professionnelle, marquée par l'engagement structuré, contrastait avec sa distance face aux conventions établies. Élise poursuivait son chemin avec détermination.
+
+Question:
+Quelle est la probabilité que l'indifférence d'Élise envers les traditions familiales vous indigne, sur une échelle de 0 à 100 ?
+
+Question:
+L'impartialité doit primer sur la tradition. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Fairness vs Authority - H3]]
+Alexandre, architecte de renom, se distingue par son approche non conventionnelle. Au travail, il ignore les processus participatifs, préférant imposer ses idées sans consulter ses collègues. En famille, il rejette les traditions, organisant des événements sans tenir compte des attentes de ses proches. Socialement, il évite les structures hiérarchiques, choisissant de ne pas suivre les règles établies lors des réunions communautaires. Ses interactions sont marquées par une indépendance farouche, refusant toute forme de collaboration ou de consensus. Alexandre ne s'engage jamais dans des discussions visant à harmoniser les points de vue, préférant suivre son propre chemin. Sa vie est un témoignage constant de son individualisme inébranlable.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par l'injustice que par l'irrespect hiérarchique ?
+
+[[Block: Fairness vs Authority - H6]]
+Lors d'une réunion du jury citoyen, Marc, un membre influent, propose d'abandonner le processus impartial du scénario A pour adopter une approche plus directive, inspirée du scénario B. Il suggère que le plan d'urbanisme soit décidé par un petit groupe de leaders respectés, arguant que cela renforcerait la cohésion et l'efficacité. Sophie, une observatrice engagée, écoute avec attention. Elle exprime son indignation face à cette proposition, soulignant que cela compromettrait la transparence et l'équité du processus. Elle rappelle l'importance de l'impartialité et de la participation citoyenne, essentielles pour maintenir la confiance du public. Son intervention suscite un débat animé, réaffirmant l'engagement du jury envers un processus démocratique et transparent.
+
+Question:
+Sur une échelle de 0 à 100, trouvez-vous l'indignation de Sophie justifiée face à la proposition de Marc ?
+
+[[Block: Fairness vs Liberty - H1]]
+Dans sa carrière, Alex se voit offrir deux chemins distincts. Dans le premier, il rejoint une entreprise qui valorise l'équité, où chaque employé bénéficie d'une répartition juste des ressources et des responsabilités. Les décisions sont prises en toute transparence, assurant un respect mutuel et une réciprocité entre collègues. Alex choisit cette voie, convaincu par l'importance d'un environnement de travail équilibré et impartial. Dans l'autre scénario, Alex pourrait s'engager dans un mouvement social prônant l'autonomie et la liberté individuelle, défiant les contraintes et les contrôles perçus comme injustes. Cependant, en optant pour le premier chemin, Alex renonce à cette quête d'indépendance. Alex s'engage pleinement dans son choix.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous le même chemin qu'Alex dans sa carrière ?
+
+[[Block: Fairness vs Liberty - H2]]
+Élise, cadre dans une entreprise engagée pour l'égalité, consacre ses journées à l'analyse de rapports et à la mise en œuvre de politiques inclusives. Elle participe activement aux réunions où la transparence et l'équité sont au cœur des discussions. Sa satisfaction professionnelle se nourrit de ces environnements structurés et harmonieux. En dehors du travail, elle passe du temps avec sa famille, partageant des moments simples et organisés. Lorsqu'elle entend parler de manifestations ou de mouvements citoyens, elle écoute poliment mais ne s'y attarde pas, préférant se concentrer sur des actions concrètes et mesurables. Pour Élise, l'ordre et la clarté sont des piliers essentiels de son quotidien.
+
+Question:
+Quelle est la probabilité que l'indifférence d'Élise suscite votre indignation ou colère, sur une échelle de 0 à 100 ?
+
+Question:
+Transparence doit primer sur l'initiative individuelle. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Fairness vs Liberty - H3]]
+Marc, directeur d'une entreprise prospère, privilégie systématiquement ses collaborateurs les plus proches, ignorant les appels à une répartition équitable des ressources. Lors des réunions, il impose ses décisions sans consulter son équipe, convaincu que son expérience prime sur toute autre opinion. À la maison, il organise chaque détail de la vie familiale, laissant peu de place aux initiatives de ses proches. Dans ses interactions sociales, il évite les discussions sur les mouvements citoyens, préférant se concentrer sur ses propres intérêts. Marc refuse de s'engager dans des débats publics, considérant que son temps est mieux investi ailleurs. Sa détermination à maintenir ce mode de vie reste inébranlable.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par le manque de transparence que par le manque d'autonomie ?
+
+[[Block: Fairness vs Liberty - H6]]
+Dans une salle de réunion, alors que l'entreprise présente fièrement son rapport annuel sur l'égalité des chances, Alex, un employé, se lève brusquement. Il critique le rapport, affirmant que les chiffres masquent des inégalités sous-jacentes. Inspiré par le mouvement citoyen en ville, il propose de créer un réseau interne pour échanger des services et informations, contournant les structures officielles. Marie, une observatrice, écoute avec indignation. Elle croit fermement en la transparence du rapport et en l'efficacité du comité indépendant. Pour elle, Alex menace l'harmonie et la confiance durement établies. Elle exprime son désaccord, soulignant l'importance de maintenir un dialogue constructif au sein de l'entreprise.
+
+Question:
+Sur une échelle de 0 à 100, pensez-vous que la désapprobation de Marie est justifiée ?
+
+[[Block: Fairness vs Loyalty - H1]]
+Le protagoniste, un jeune professionnel, se trouve à un carrefour décisif de sa carrière. Dans le premier chemin, il rejoint un comité de sélection pour une bourse étudiante. Ici, il s'engage à garantir une évaluation impartiale des candidatures, en respectant des critères anonymisés et transparents. Chaque décision est prise avec soin, assurant une distribution équitable des ressources. Dans l'autre chemin, il intègre une équipe de projet dynamique, où l'unité et le soutien mutuel sont primordiaux. Les membres portent fièrement les couleurs de leur entreprise, se soutenant face aux critiques. Le protagoniste choisit le premier chemin, privilégiant l'équité et la justice dans ses actions.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme le protagoniste en privilégiant l'équité dans ses actions ?
+
+[[Block: Fairness vs Loyalty - H2]]
+Élise, directrice de projet, se distinguait par son approche méthodique et rigoureuse. Chaque matin, elle s'installait dans son bureau, entourée de dossiers soigneusement classés. Sa priorité était d'assurer une répartition équitable des ressources, s'appuyant sur des critères clairs et transparents. Les réunions qu'elle dirigeait étaient structurées, chaque décision étant prise après une analyse minutieuse. En revanche, lors des déjeuners d'équipe, elle restait en retrait, peu intéressée par les discussions informelles et les échanges spontanés. Elle préférait consacrer son temps à l'optimisation des processus plutôt qu'à renforcer les liens sociaux. Pour Élise, l'efficacité et l'équité primaient sur les dynamiques de groupe.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face à l'indifférence d'Élise envers la solidarité ? (0-100)
+
+Question:
+L'équité doit primer sur la fidélité. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Fairness vs Loyalty - H3]]
+Jean-Pierre, dans sa vie professionnelle, familiale et sociale, se distingue par des choix qui s'écartent des pratiques illustrées dans les scénarios. Au travail, il privilégie les décisions basées sur des préférences personnelles plutôt que sur des critères objectifs. Lors des réunions, il n'hésite pas à favoriser certains collègues, ignorant les règles d'impartialité. En famille, il prend souvent des décisions sans consulter les autres, imposant ses vues sans chercher le consensus. Dans ses interactions sociales, il ne s'engage pas dans des dynamiques de groupe, préférant agir seul. Jean-Pierre maintient ces comportements de manière constante, sans compromis, et poursuit sa route selon ses propres principes.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par la violation de la transparence que de la solidarité ?
+
+[[Block: Fairness vs Loyalty - H6]]
+Dans une salle de réunion, Marc, membre influent du comité de sélection, propose de favoriser un candidat pour la bourse étudiante, arguant que cela renforcerait l'esprit d'équipe, comme dans leur projet d'entreprise. Il suggère que l'unité et le soutien mutuel priment sur les critères anonymisés. Claire, une observatrice attentive, écoute avec indignation. Elle se lève calmement, rappelant l'importance de l'impartialité et de la transparence dans le processus de sélection. Elle souligne que dévier des règles établies compromettrait la confiance des participants et l'équité du système. Sa réaction, bien que mesurée, réaffirme l'engagement du comité envers une évaluation juste et équitable, préservant ainsi l'intégrité du processus.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation de Claire est-elle justifiée selon vous ?
+
+[[Block: Fairness vs Sanctity - H1]]
+Le protagoniste, un professionnel ambitieux, se trouve à un carrefour décisif. D'un côté, il peut rejoindre un comité indépendant qui évalue des candidatures anonymisées pour un concours. Ce rôle exige une analyse impartiale, des débats basés sur des critères transparents et la publication d'un rapport détaillé, garantissant une distribution équitable des opportunités. De l'autre côté, il pourrait s'engager dans une communauté spirituelle, participant à des rituels de purification et explorant la transcendance à travers l'art et la méditation. Choisissant la première voie, il privilégie un environnement où la justice et l'équité priment, renonçant ainsi à une quête de pureté et de spiritualité. Sa décision est prise.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de rejoindre le comité impartial comme le protagoniste ?
+
+[[Block: Fairness vs Sanctity - H2]]
+Élise, cadre dans une entreprise de conseil, consacre ses journées à l'analyse rigoureuse de projets. Chaque matin, elle rejoint une équipe diversifiée pour évaluer des propositions selon des critères précis. Les discussions sont animées mais toujours objectives, et Élise apprécie la clarté des processus. Le soir, elle rentre chez elle, où son conjoint et ses enfants l'attendent. Bien qu'elle respecte les pratiques spirituelles de sa sœur, qui vit dans un monastère, Élise ne ressent pas le besoin de s'y impliquer. Elle préfère consacrer son temps libre à des activités concrètes, comme la lecture de rapports ou la planification de voyages. Sa vie s'articule autour de structures bien définies.
+
+Question:
+Quelle est la probabilité que vous ressentiez de l'indignation face à l'indifférence d'Élise envers les valeurs sacrées ? (0-100)
+
+Question:
+Impartialité doit primer sur respect profond. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Fairness vs Sanctity - H3]]
+Marc, un homme d'affaires pragmatique, navigue dans sa carrière en privilégiant l'efficacité sur la transparence. Lors des réunions, il contourne les processus formels, préférant des décisions rapides basées sur des alliances stratégiques. À la maison, il évite les rituels familiaux, considérant le temps comme une ressource à optimiser. Ses interactions sociales sont marquées par un scepticisme envers les traditions spirituelles, qu'il juge non essentielles. Marc organise des dîners où les discussions portent sur les gains matériels plutôt que sur des réflexions introspectives. Il choisit des œuvres d'art pour leur potentiel d'investissement, non pour leur signification. Sa vie est un témoignage constant de son approche résolument utilitaire.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par l'injustice que par l'irrespect alimentaire ?
+
+[[Block: Fairness vs Sanctity - H6]]
+Dans la salle de réunion, le comité s'apprête à délibérer lorsque Marc, un membre influent, propose d'abandonner l'évaluation des candidatures pour adopter une approche inspirée du temple voisin. Il suggère que la méditation et l'intuition remplacent les critères établis. Sophie, une observatrice attentive, écoute avec incrédulité. Elle se lève, soulignant l'importance de l'impartialité et de la transparence pour maintenir la confiance des participants. Son ton est calme mais ferme, rappelant que le processus actuel garantit l'équité. Le comité, sensible à ses arguments, décide de maintenir le système en place, tandis que Marc, bien que déçu, accepte la décision collective. Sophie retourne à sa place, satisfaite d'avoir défendu les principes fondamentaux du concours.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation de Sophie est-elle justifiée selon vous ?
+
+[[Block: Loyalty vs Authority - H1]]
+Dans une petite ville, Alex se trouve à un carrefour décisif de sa vie. D'un côté, il peut rejoindre une équipe de rugby locale, où l'esprit de camaraderie et le soutien mutuel sont primordiaux. Les entraînements réguliers et les matchs renforcent les liens entre les membres, créant un sentiment d'appartenance fort. De l'autre côté, une opportunité se présente pour devenir enseignant dans une école réputée, où le respect des règles et des hiérarchies est essentiel. Les traditions scolaires et l'ordre structuré offrent une stabilité rassurante. Alex choisit de s'engager pleinement dans l'équipe de rugby, privilégiant les liens de solidarité et l'engagement collectif.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de rejoindre l'équipe de rugby comme Alex ?
+
+[[Block: Loyalty vs Authority - H2]]
+Chaque matin, Marc enfile son maillot de rugby avec une fierté inébranlable, prêt à rejoindre ses coéquipiers pour l'entraînement. Leurs chants résonnent dans le vestiaire, une mélodie familière qui alimente sa passion. Sur le terrain, chaque passe, chaque plaquage, renforce son engagement envers l'équipe. En dehors du sport, Marc se montre moins concerné par les règles strictes de son bureau. Les réunions formelles et les protocoles lui semblent fades, dépourvus de l'énergie collective qu'il chérit tant. Lors des événements familiaux, il participe sans grand enthousiasme, préférant l'intensité des matchs. Pour Marc, l'esprit d'équipe sur le terrain surpasse les structures rigides du quotidien.
+
+Question:
+Quelle est la probabilité que l'indifférence de Marc envers les règles suscite votre indignation ou colère (0-100) ?
+
+Question:
+L'esprit de corps doit primer sur la structure. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Loyalty vs Authority - H3]]
+Alex, un consultant en innovation, navigue dans sa vie avec une approche résolument individualiste. Au travail, il évite les rituels d'équipe, préférant explorer des solutions en solo plutôt  que de s'aligner sur les stratégies collectives. En famille, il encourage ses enfants à remettre en question les traditions, valorisant l'indépendance sur la conformité. Lors des réunions sociales, il s'abstient de suivre les conventions, souvent en désaccord avec les normes établies. Alex ne se plie pas aux attentes de loyauté envers un groupe ou d'adhésion à une autorité, choisissant plutôt de tracer son propre chemin. Sa vie est un témoignage constant de son engagement envers l'autonomie personnelle.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par la violation de l'esprit de corps que par celle de la hiérarchie ?
+
+[[Block: Loyalty vs Authority - H6]]
+Dans une salle ornée de bannières, l'équipe de rugby se prépare pour le match. Cependant, Marc, un nouveau membre, propose d'adopter un règlement strict inspiré de l'école, insistant sur la discipline et l'ordre. Il suggère de remplacer le chant traditionnel par une série de règles à suivre. Les coéquipiers échangent des regards perplexes. Sophie, une observatrice passionnée, exprime son indignation. Elle rappelle que l'esprit d'équipe et la tradition sont essentiels pour la cohésion. Son intervention souligne l'importance des rituels partagés, et l'équipe décide de conserver leur chant, renforçant ainsi leur unité. Marc, réalisant l'impact de la tradition, accepte finalement de participer au chant, respectant l'esprit collectif.
+
+Question:
+Sur une échelle de 0 à 100, pensez-vous que l'indignation de Sophie est justifiée dans cette situation ?
+
+[[Block: Loyalty vs Liberty - H1]]
+Dans une salle de réunion, Alex, membre d'une équipe de projet, choisit de se concentrer sur la défense de son entreprise. Il s'engage activement avec ses collègues pour élaborer des stratégies visant à contrer une critique perçue comme injuste. Ensemble, ils expriment leur solidarité et leur détermination à protéger leur réputation collective. Pendant ce temps, une marche pacifique se déroule dans la ville, où des citoyens protestent contre une loi restreignant la liberté d'expression. Un journaliste indépendant documente l'événement, cherchant à révéler les injustices. Alex, en choisissant de rester avec son équipe, renonce à participer à cette manifestation pour la liberté. Il privilégie l'unité de son groupe.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous d'agir comme Alex en restant avec votre équipe ?
+
+[[Block: Loyalty vs Liberty - H2]]
+Chaque matin, Émilie se rendait au bureau, où elle trouvait un réconfort dans la structure et la cohésion de son équipe. Elle portait fièrement le badge de l'entreprise, symbole de son engagement. Lors des réunions, elle s'investissait pleinement, cherchant des solutions collectives aux défis rencontrés. Sa vie professionnelle était marquée par une loyauté indéfectible envers ses collègues et son entreprise. En dehors du travail, elle restait souvent en retrait des mouvements sociaux, préférant se concentrer sur les objectifs internes. Les manifestations et les débats publics lui semblaient éloignés de ses priorités quotidiennes. Pour Émilie, l'harmonie au sein de son équipe primait sur les préoccupations extérieures.
+
+Question:
+Sur une échelle de 0 à 100, quelle est la probabilité que l'indépendance d'Émilie suscite votre indignation ou colère ?
+
+Question:
+L'allégeance doit primer sur l'initiative individuelle. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Loyalty vs Liberty - H3]]
+Antoine, cadre dans une grande entreprise, préfère travailler seul, évitant les réunions d'équipe. Il ne porte jamais le badge de l'entreprise, considérant cela comme superflu. Lorsqu'un collègue est critiqué, il reste silencieux, estimant que chacun doit se défendre. En dehors du travail, Antoine ne participe pas aux manifestations, même pour des causes populaires. Il pense que les lois doivent être respectées, quelles qu'elles soient. Lorsqu'un journaliste l'interroge, il décline poliment, ne souhaitant pas s'impliquer. En ligne, il ne partage pas d'articles controversés, préférant rester discret. Antoine vit selon ses propres règles, sans se soucier des attentes collectives. Il avance, détaché des engagements communs.
+
+Question:
+Sur une échelle de 0-100, à quel point êtes-vous plus indigné par la violation de la solidarité que de l'autonomie ?
+
+[[Block: Loyalty vs Liberty - H6]]
+Dans une salle de réunion, Marc, membre de l'équipe, propose de rejoindre la marche pacifique en ville, arguant que la lutte pour la liberté d'expression est plus cruciale que la défense de leur réputation. Ses collègues, surpris, écoutent en silence. Claire, une observatrice externe, assiste à la scène. Elle fronce les sourcils, perplexe face à la suggestion de Marc. Pour elle, l'unité de l'équipe et la défense de leur collègue sont primordiales. Elle se demande comment Marc peut envisager de délaisser une cause interne pour une lutte externe. Tandis que Marc continue de plaider sa cause, Claire reste silencieuse, mais son indignation est palpable, reflétée dans son regard attentif et ses gestes crispés.
+
+Question:
+Sur une échelle de 0 à 100, trouvez-vous justifiée l'indignation ou désapprobation de Claire face à Marc ?
+
+[[Block: Loyalty vs Sanctity - H1]]
+Julie se trouve à un carrefour de sa vie. D'un côté, elle peut choisir de rester dans son équipe au travail, où elle est entourée de collègues qui se soutiennent mutuellement. Lorsqu'un client l'accuse à tort, ses collègues se rassemblent pour la défendre, renforçant leur unité et leur engagement commun. De l'autre côté, elle pourrait rejoindre un groupe de moines dans un temple, où chaque matin, ils participent à des rituels de purification, cherchant à atteindre une élévation spirituelle. Julie choisit de rester avec son équipe, privilégiant les liens de solidarité et de fidélité qu'elle a tissés avec ses collègues. Elle se sent chez elle parmi eux.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de rester avec votre équipe comme Julie l'a fait ?
+
+[[Block: Loyalty vs Sanctity - H2]]
+Marc, cadre dynamique, privilégie l'efficacité et la collaboration au quotidien. Au bureau, il s'illustre par son engagement envers ses collègues, toujours prêt à défendre l'un d'eux face à une injustice. Les réunions d'équipe sont pour lui des moments cruciaux où l'unité prime. En revanche, les rituels spirituels ou les moments de contemplation ne trouvent que peu de place dans son emploi du temps chargé. Lorsqu'il passe devant un temple, il admire brièvement l'architecture, mais ne s'arrête jamais. Pour Marc, l'action collective et le soutien mutuel sont essentiels, tandis que les pratiques introspectives restent en arrière-plan. Sa vie s'articule autour de l'interaction humaine et du travail d'équipe.
+
+Question:
+Quelle est la probabilité que l'indifférence de Marc envers le sacré suscite votre indignation ou colère (0-100) ?
+
+Question:
+La solidarité doit primer sur la transcendance. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Loyalty vs Sanctity - H3]]
+Antoine, un consultant en stratégie, se distingue par son approche individualiste. Lors des réunions, il préfère travailler seul, évitant les collaborations collectives. Il ne s'engage pas dans les  discussions d'équipe, se concentrant sur ses propres objectifs. En famille, il choisit de passer ses soirées à lire plutôt que de participer aux dîners hebdomadaires. Ses interactions sociales sont marquées par une distance calculée, évitant les rituels communautaires. Antoine ne s'intéresse pas aux traditions ou aux cérémonies, préférant des activités solitaires. Il ne ressent pas le besoin de s'intégrer dans des groupes ou de suivre des pratiques partagées. Sa vie est un témoignage de son indépendance inébranlable.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par la violation de la solidarité que de la pureté ?
+
+[[Block: Loyalty vs Sanctity - H6]]
+Lors d'une réunion d'équipe, Marc, un nouveau membre, propose d'adopter des pratiques inspirées des rituels de purification des moines pour renforcer la cohésion. Il suggère de remplacer les discussions par des moments de méditation collective. Les collègues, surpris, échangent des regards perplexes. Claire, une observatrice attentive, exprime son indignation face à cette idée, soulignant l'importance de la communication directe et du soutien mutuel, comme lors de la défense de Julie. Elle rappelle que l'unité de l'équipe repose sur l'échange et la solidarité active. Marc, réalisant l'impact de ses propos, écoute attentivement les arguments de Claire, reconnaissant la valeur des pratiques actuelles de l'équipe.
+
+Question:
+Sur une échelle de 0 à 100, à quel point l'indignation de Claire face à la proposition de Marc est-elle justifiée ?
+
+[[Block: Sanctity vs Liberty - H1]]
+Dans une région reculée, Alex choisit de vivre en ermite, consacrant ses journées à la méditation et à la purification spirituelle. Il adopte un mode de vie ascétique, se nourrissant exclusivement de produits végétariens, et s'entoure d'objets sacrés pour atteindre une élévation spirituelle. Cette quête de pureté et de transcendance l'éloigne des tumultes du monde moderne. À l'opposé, dans une métropole dynamique, Alex aurait pu s'engager dans des mouvements sociaux, participant à des manifestations pour défendre les droits individuels et promouvoir l'autonomie collective. En choisissant la voie de la spiritualité et de la pureté, Alex renonce à l'activisme urbain et à la lutte pour l'indépendance sociale.
+
+Question:
+Sur une échelle de 0 à 100, choisiriez-vous de vivre comme Alex, en ermite et dédié à la spiritualité?
+
+[[Block: Sanctity vs Liberty - H2]]
+Chaque matin, Éloïse se levait avant l'aube, en quête de sérénité. Elle commençait sa journée par une heure de méditation, entourée de bougies parfumées, avant de préparer un petit-déjeuner simple et végétarien. Au travail, elle privilégiait les tâches solitaires, appréciant le calme de son bureau. Ses collègues discutaient souvent des dernières nouvelles et des manifestations en cours, mais Éloïse restait silencieuse, absorbée par ses pensées. Le soir, elle rentrait chez elle, évitant les réseaux sociaux et les débats animés. Elle préférait lire des ouvrages philosophiques, cherchant à approfondir sa compréhension du monde intérieur. Pour Éloïse, la paix intérieure était une priorité quotidienne.
+
+Question:
+Sur une échelle de 0 à 100, quelle est la probabilité que vous ressentiez de l'indignation envers Éloïse ?
+
+Question:
+Respect profond doit primer sur l'initiative individuelle. Sur une échelle de 0 à 100, à quel point êtes-vous d'accord avec cette proposition ?
+
+[[Block: Sanctity vs Liberty - H3]]
+Julien, cadre dans une multinationale, commence chaque journée par une réunion où il impose des décisions sans consulter son équipe. Il préfère les repas d'affaires somptueux, souvent à base de viande, et ne s'intéresse guère aux discussions sur l'éthique alimentaire. À la maison, il évite les débats politiques, considérant que les manifestations sont une perte de temps. Sur les réseaux sociaux, il bloque systématiquement les contenus critiques, préférant maintenir une image lisse et contrôlée. Lors des réunions de quartier, il s'oppose aux initiatives communautaires, arguant que l'indépendance individuelle prime sur l'entraide. Julien poursuit sa route, convaincu que son approche pragmatique est la plus efficace.
+
+Question:
+Sur une échelle de 0 à 100, à quel point êtes-vous plus indigné par la violation de la pureté que de l'autonomie ?
+
+[[Block: Sanctity vs Liberty - H6]]
+Dans un temple isolé, les moines poursuivent leur rituel quotidien de méditation. Un jour, un jeune activiste, inspiré par les mouvements urbains, arrive avec des tracts prônant l'action sociale et la résistance contre l'injustice. Il critique le retrait des moines du monde, les exhortant à rejoindre la lutte en ville. Un moine observateur, témoin de cette intrusion, ressent une profonde indignation. Il considère que la quête intérieure des moines est essentielle pour maintenir l'équilibre spirituel, même face aux tumultes extérieurs. Sans un mot, il retourne à sa méditation, convaincu que la paix intérieure est une forme de résistance tout aussi valable. Le protagoniste, frustré, quitte le temple, laissant derrière lui un silence immuable.
+
+Question:
+Sur une échelle de 0 à 100, l'indignation du moine face à l'activiste est-elle justifiée selon vous ?

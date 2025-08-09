@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Project outputs
+output/
+outputs/
+logs/
+vignette_generation.log
+*.pdf
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and temp
+*.xlsx
+*.csv
+*.tsv
+*.tmp
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtualenv / caches / builds
+.venv/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.eggs/
+dist/
+build/
+
