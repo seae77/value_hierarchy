@@ -20,9 +20,7 @@ import numpy as np
 import pandas as pd
 import yaml
 
-sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
-from utils.stats import icc_2_1  # noqa: E402
-from utils.latex import write_latex  # noqa: E402
+from .sa_utils import icc_2_1, write_latex
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 log = logging.getLogger("08_A4")

@@ -35,8 +35,7 @@ import pandas as pd
 import yaml
 import statsmodels.api as sm
 
-sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
-from utils.latex import write_latex  # noqa: E402
+from .sa_utils import write_latex
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 log = logging.getLogger("14_B4")
