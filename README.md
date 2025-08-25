@@ -45,6 +45,18 @@ Or run the script directly:
   - `ruff . --fix`
   - `black .`
 
+## Statistical analysis scripts
+The `statistical_analysis/` folder contains self-contained research scripts (06–14). To run them, install analysis extras:
+
+- `python -m pip install -e .[analysis]`
+
+Typical inputs/outputs are described in each script header. They expect:
+- Cleaned wide CSV: `data/interim/clean_phase1_phase2_raw.csv`
+- Phase I summary CSV: `data/processed/phase1_btpooled.csv`
+- Panel long: `data/processed/panel_long.parquet`
+- Configs: `config/pairs.yaml`, `config/blocks.yaml`
+- Tables will be written under `tables/` and processed data under `data/processed/`
+
 ## License
 MIT
 
